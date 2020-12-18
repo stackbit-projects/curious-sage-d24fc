@@ -1,8 +1,8 @@
 {
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "cyan",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/tribified-full-transparent.svg",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -29,7 +29,7 @@
             {
                 "label": "Sign Up",
                 "url": "/signup",
-                "style": "primary"
+                "style": "secondary"
             }
         ]
     },
