@@ -7,8 +7,10 @@ sections:
     image_alt: App preview
     title: Relationship Management for Instagram
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Your number of followers should not determine whether or not your brand is
+      successful on Instagram. We provide you with detailed data about your
+      existing community so you can concentrate on building existing
+      relationships.
     actions:
       - label: Learn More
         url: /features
